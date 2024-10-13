@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ayush rajak</h1>
-<h3 align="center">A passionate frontend developer from bhilai chhattisgarh ,india</h3>
+<h3 align="center">A passionate data analyst from bhilai chhattisgarh ,india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushrajak19&label=Profile%20views&color=0e75b6&style=flat" alt="ayushrajak19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushrajak19" alt="ayushrajak19" /></a> </p>
 
-- 🔭 I’m currently working on [large language model project](https://github.com/ayushRajak19/repos2)
+- 🔭 I’m currently working on [hotel booking cancellation project](https://github.com/ayushRajak19/repos2)
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Data Analysis**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python ,Devops**
 
 - 📫 How to reach me **ayushnirmal6261@gmail.com**
 
