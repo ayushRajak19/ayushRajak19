@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushrajak19" alt="ayushrajak19" /></a> </p>
 
-- 🔭 I’m currently working on [hotel booking cancellation project](https://github.com/ayushRajak19/repos2)
+- 🔭 I’m currently working on [hotel booking cancellation project](https://github.com/ayushRajak19/my_proj1)
 
 - 🌱 I’m currently learning **Data Analysis**
 
