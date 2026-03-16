@@ -31,7 +31,7 @@ class AyushRajak:
         self.focus       = ["GenAI", "ML", "Web Dev", "DevOps"]
         self.currently   = "Hotel Booking Cancellation Project 🏨"
         self.learning    = ["Data Analysis", "Machine Learning", "GenAI"]
-        self.ask_me_about= ["Python", "Generative AI", "DevOps"]
+        self.ask_me_about = ["Python", "Generative AI", "DevOps"]
 
     def life_goals(self):
         return [
@@ -183,15 +183,6 @@ print(me)
 
 ---
 
-<!-- Snake Animation -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayushrajak19/ayushrajak19/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-> ⚠️ *To enable the snake, set up [this GitHub Action](https://github.com/Platane/snk) in your profile repo.*
-
-</div>
-
 ---
 
 <div align="center">
@@ -201,4 +192,3 @@ print(me)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
-
