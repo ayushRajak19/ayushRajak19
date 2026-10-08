@@ -1,29 +1,28 @@
-# Hi, I'm Ayush Rajak
+# Ayush Rajak
 
-Generative AI Engineer based in Bhilai, India. I build LLM-powered applications, AI agents, and RAG systems, and I like taking ideas from prototype to production.
+AI/ML Engineer at [Whalexy](https://whalexy.com) (Mobius Bloom Ventures). I build and deploy GenAI applications: agents, RAG systems, and production APIs.
 
-### Currently
+### Work
 
-- Working on a hotel booking cancellation prediction model
-- Learning more about machine learning and data analysis
-- Open to roles at product-based companies
+**AI/ML Engineer, Whalexy** · Jun 2026 – Present
+- Built and deployed a WhatsApp auto-reply agent on AWS EC2 that responds to customer messages automatically
+- Built LangGraph agent workflows and FastAPI services with multi-tenant RAG (namespace isolation in ChromaDB)
+- Benchmarked Hinglish intent classifiers (Groq LLM 80%, BART zero-shot 60%, MuRIL 42.5%) and chose the production model
 
-### Selected Projects
+**Freelance Web Developer, Right Power Cables** · 2025
+- Sole developer of [rightpowercables.com](https://rightpowercables.com), from requirements to deployment (React, Vite)
 
-**[Hotel Booking Cancellation Prediction](https://github.com/ayushrajak19/REPO-NAME)**
-ML model that predicts booking cancellations to help hotels plan inventory and pricing. Python, Pandas, scikit-learn.
+### Projects
 
-**[Stock Analyzer Agent](https://github.com/ayushrajak19/REPO-NAME)**
-Multi-agent system built with CrewAI that pulls live market data and generates financial summaries. Python, CrewAI, OpenAI API.
+**[Aura](https://github.com/ayushRajak19/jewellery-tryon)** — AI jewellery stylist with real-time AR try-on. RAG-based recommendations from an unstructured catalogue, plus live try-on using MediaPipe Face Mesh. FastAPI, LangChain, FAISS, OpenCV, MongoDB.
 
-### Tech
+### Stack
 
-**Languages:** Python, Java, JavaScript
-**AI/ML:** LangChain, CrewAI, AutoGen, PydanticAI, Hugging Face, OpenAI, Groq, LLaMA
-**Web:** Django, React
-**Infra:** Docker, Kubernetes, AWS, Linux
-**Data:** MongoDB
+**GenAI:** LangChain, LangGraph, LlamaIndex, CrewAI, RAG, MCP, OpenAI, Groq
+**ML:** PyTorch/TensorFlow, Hugging Face Transformers, QLoRA fine-tuning, scikit-learn
+**Backend:** Python, FastAPI, PostgreSQL, MongoDB, Redis, ChromaDB, Pinecone
+**Infra:** AWS (EC2, Lambda), Docker, CI/CD
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/ayushrajak09) · [X](https://x.com/ayurajak19) · [Email](mailto:rajakayuush@gmail.com)
+[LinkedIn](https://linkedin.com/in/ayushrajak09) · [Email](mailto:rajakayuush@gmail.com)
